@@ -7,8 +7,8 @@
     'category': 'Human Resources',
     'author': 'Eduweb Group',
     'maintainer': 'Eduweb Group',
-    'price': '235.0',
-    'currency': 'USD',
+    # 'price': '235.0',
+    # 'currency': 'USD',
     'website': 'https://www.eduwebgroup.com',
     'license': 'OPL-1',
     'depends': [
