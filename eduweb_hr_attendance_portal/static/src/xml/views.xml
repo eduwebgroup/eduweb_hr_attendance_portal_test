@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates id="template" xml:space="preserve">
+  <t t-name="hr_attendance_portal_check">
+      <div class="bg-white no-gutters border rounded d-flex  mt-1 pl-3 pr-3 pt-2 pb-2 align-items-center justify-content-start">
+         <button type="button" class="btn btn-primary d-flex align-items-center mr-2">
+           <span><t t-esc="widget.commandName"></t></span>
+               <span style="display: none;" class="spinner-border spinner-border-sm ml-1" role="status"></span>
+        </button>
+          <span style="color: #dc3545" id="attendance_error_message"/>
+      </div>
+    </t>
+</templates>

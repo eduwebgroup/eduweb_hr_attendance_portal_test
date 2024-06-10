@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <template id="hr_attendance_portal_assets" name="hr_attendance_location assets">
+        <script type="text/javascript" src="/eduweb_hr_attendance_portal/static/src/js/my_attendances.js"></script>
+    </template>
+</odoo>
